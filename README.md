@@ -13,4 +13,6 @@ Tool runs and tested under Mac OS X and Python 3.9.6.
 
 ## Install and Usage
 
-`nano`
+`git clone https://github.com/sharel0ck/objectboxlite.git`
+`cd objectboxlite-main`
+`python3 ObjectBoxLite.py -f \path\to\the\data.mdb`
