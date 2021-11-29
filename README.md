@@ -10,3 +10,7 @@ The tool is able to read actually tables and entries from the database file.
 
 ## System
 Tool runs and tested under Mac OS X and Python 3.9.6.
+
+## Install and Usage
+
+`nano`
