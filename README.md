@@ -1,6 +1,8 @@
 # ObjectBoxLite
 
-In my bachelor thesis I developed a forensic tool **ObjectBoxLite** to give the community the possibility to analyze ObjectBox Database files :coffee: :man_technologist:. [ObjectBox](https://objectbox.io/) is a non SQLite Database, that is developed for Mobile-, Edge- or IoT-Computing. The Database file can extracted from Smartphone Apps or from IoT devices. 
+In my bachelor thesis I developed the forensic tool **ObjectBoxLite** to give the community the possibility to analyze ObjectBox database files :coffee: :man_technologist:.   
+  
+[ObjectBox](https://objectbox.io/) is a non SQLite database, that is developed for Mobile-, Edge- or IoT-Computing. The database file be can extracted from smartphone apps or from IoT devices.  
 
 ## Background
 
