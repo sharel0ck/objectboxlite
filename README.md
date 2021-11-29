@@ -1,6 +1,6 @@
 # ObjectBoxLite
 
-
+In my bachelor thesis I developed a forensic tool 'ObjectBoxLite' to analyze ObjectBox Database files.
 
 # Install
 
